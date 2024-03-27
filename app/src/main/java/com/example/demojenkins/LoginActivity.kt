@@ -31,7 +31,7 @@ class LoginActivity : AppCompatActivity(), LoginViewContract {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
-        Log.e("onCreate", "onCreate:Hello World", )
+        Log.e("onCreate", "onCreate:Hello World")
     }
 
 
