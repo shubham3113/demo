@@ -13,7 +13,7 @@ public class HomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         Log.e("Home", "onCreate: Home Activity");
-        getName("Shubham");
+        getName("Prathvi");
     }
 
     void getName(String s){
